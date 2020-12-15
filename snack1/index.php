@@ -2,19 +2,19 @@
 // creo l'array matches
 $matches = [
   // creo i sotto array
-  'partita1' => [
+  [
     'casa' => 'pippo',
     'ospite' => 'paperino',
     'punti_casa' => 20,
     'punti_ospite' => 30
   ],
-  'partita2' => [
+  [
     'casa' => 'topolino',
     'ospite' => 'pluto',
     'punti_casa' => 35,
     'punti_ospite' => 15
   ],
-  'partita3' => [
+  [
     'casa' => 'minnie',
     'ospite' => 'archimede',
     'punti_casa' => 54,
